@@ -10,16 +10,16 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 
 ## 동영상 가이드
 
-문서가이드와 함께 영상으로도 사용법을 제작했습니다.  &#x20;
+문서가이드와 함께 영상으로도 사용법을 제작했습니다.
 
 {% embed url="https://www.soystudy.com/main/manual/manager" %}
 
-## &#x20;과정 관리
+## 과정 관리
 
-과정관리는 시험을 보관하고, 과정관리 내에 있는 시험들을 치를 수 있게 도와줍니다.  &#x20;
+과정관리는 시험을 보관하고, 과정관리 내에 있는 시험들을 치를 수 있게 도와줍니다.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 {% content-ref url="undefined/undefined-2/undefined-4.md" %}
@@ -29,45 +29,40 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 ## 시험세트 관리
 
 문제를 등록 후 시험세트로 만들어 사용하는 방법에 관하여 설명되어있습니다.\
-&#x20; &#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 {% content-ref url="testset/undefined-2/undefined.md" %}
 [undefined.md](testset/undefined-2/undefined.md)
 {% endcontent-ref %}
 
-
-
 ## 문제 관리
 
 문제 생성/수정/복사/삭제 등 시험세트에 들어갈 문제 제작에 관하여 설명되었습니다.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2/undefined-2.md" %}
-[undefined-2.md](undefined-2/undefined-2.md)
+{% content-ref url="question/management.md" %}
+[management.md](question/management.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2/undefined-4.md" %}
-[undefined-4.md](undefined-2/undefined-4.md)
+{% content-ref url="question/checkquestion.md" %}
+[checkquestion.md](question/checkquestion.md)
 {% endcontent-ref %}
 
-## &#x20;응시자  관리
+## 응시자 관리
 
 시험에 응할 응시자들을 추가 및 관리하는 방법 입니다.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-4/undefined-6.md" %}
-[undefined-6.md](undefined-4/undefined-6.md)
+{% content-ref url="testtaker/checktesttaker.md" %}
+[checktesttaker.md](testtaker/checktesttaker.md)
 {% endcontent-ref %}
-
-
-
