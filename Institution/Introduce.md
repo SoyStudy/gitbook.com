@@ -8,7 +8,7 @@ description: 출제자의 정보 수정 및 서비스 구매방법 입니다.
 
 ![](../.gitbook/assets/main.png)
 
-<img src="../.gitbook/assets/main.png" style="box-shadow: 5px 5px 5px #fff;">
+<img src="../.gitbook/assets/main.png" style="box-shadow: 5px 5px 5px red; border:5px solide red;">
 
 출제자 홈의 각각의 메뉴에 대한 설명은 다음과 같습니다.
 
