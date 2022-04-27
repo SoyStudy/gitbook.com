@@ -22,8 +22,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="course/manage/sandemail.md" %}
-[sandemail.md](course/manage/sandemail.md)
+{% content-ref url="undefined/undefined-2/undefined-4.md" %}
+[undefined-4.md](undefined/undefined-2/undefined-4.md)
 {% endcontent-ref %}
 
 ## 시험세트 관리

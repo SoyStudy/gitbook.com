@@ -28,11 +28,11 @@
 
 * [과정관리 소개](undefined/undefined.md)
 * [과정 생성](undefined/add.md)
-* [과정 운영](course/manage/README.md)
-  * [과정정보](course/manage/information.md)
-  * [응답자료 초기화](course/manage/testclear.md)
-  * [과정 배포](course/manage/sandemail.md)
-  * [인증평가 정보관리](course/manage/certmanagement.md)
+* [과정 운영](undefined/undefined-2/README.md)
+  * [과정정보](undefined/undefined-2/undefined.md)
+  * [응답자료 초기화](undefined/undefined-2/undefined-3.md)
+  * [과정 배포](undefined/undefined-2/undefined-4.md)
+  * [인증평가 정보관리](undefined/undefined-2/undefined-6.md)
 
 ## 시험세트관리 <a href="#testset" id="testset"></a>
 
