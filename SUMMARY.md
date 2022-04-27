@@ -24,19 +24,17 @@
 * [서비스 구매](Institution/buy.md)
 * [FAQ](Institution/faq.md)
 
-## 과정관리
+## 과정관리 <a href="#course" id="course"></a>
 
-* [과정관리 소개](undefined/undefined.md)
-* [과정 생성](undefined/add.md)
-* [과정관리](undefined/undefined-1.md)
-* [과정 운영](undefined/undefined-2/README.md)
-  * [과정수정](undefined/undefined-2/undefined.md)
-  * [과정삭제](undefined/undefined-2/undefined-1.md)
-  * [시험추가](undefined/undefined-2/undefined-2.md)
-  * [응답자료 초기화](undefined/undefined-2/undefined-3.md)
-  * [시험응시 이메일 정보관리](undefined/undefined-2/undefined-4.md)
-  * [시험과정결과 이메일 안내](undefined/undefined-2/undefined-5.md)
-  * [인증평가 정보관리](undefined/undefined-2/undefined-6.md)
+* [과정관리 소개](course/readme.md)
+* [과정 생성](course/add.md)
+* [과정 운영](course/undefined-2/README.md)
+  * [과정정보](course/undefined-2/undefined.md)
+  * [시험추가](course/undefined-2/undefined-2.md)
+  * [응답자료 초기화](course/undefined-2/undefined-3.md)
+  * [시험응시 이메일 정보관리](course/undefined-2/undefined-4.md)
+  * [시험과정결과 이메일 안내](course/undefined-2/undefined-5.md)
+  * [인증평가 정보관리](course/undefined-2/undefined-6.md)
 
 ## 시험세트관리 <a href="#testset" id="testset"></a>
 
