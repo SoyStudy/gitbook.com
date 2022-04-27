@@ -47,12 +47,12 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="question/management.md" %}
-[management.md](question/management.md)
+{% content-ref url="undefined-2/undefined-2.md" %}
+[undefined-2.md](undefined-2/undefined-2.md)
 {% endcontent-ref %}
 
-{% content-ref url="question/checkquestion.md" %}
-[checkquestion.md](question/checkquestion.md)
+{% content-ref url="undefined-2/undefined-4.md" %}
+[undefined-4.md](undefined-2/undefined-4.md)
 {% endcontent-ref %}
 
 ## 응시자 관리
@@ -63,6 +63,6 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="testtaker/checktesttaker.md" %}
-[checktesttaker.md](testtaker/checktesttaker.md)
+{% content-ref url="undefined-4/undefined-6.md" %}
+[undefined-6.md](undefined-4/undefined-6.md)
 {% endcontent-ref %}
