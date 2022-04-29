@@ -39,6 +39,7 @@
 * [시험세트관리 소개](testset/undefined.md)
 * [시험세트 운영](testset/undefined-2/README.md)
   * [시험세트 생성](testset/undefined-2/undefined.md)
+  * [시험세트상세정보](testsetting/manage/information.md)
   * [시험세트 복사](testset/undefined-2/undefined-1.md)
   * [시험세트 수정](testset/undefined-2/undefined-2.md)
   * [시험세트 삭제](testset/undefined-2/undefined-3.md)
