@@ -35,8 +35,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="testset/undefined-2/undefined.md" %}
-[undefined.md](testset/undefined-2/undefined.md)
+{% content-ref url="testsetting/manage/undefined.md" %}
+[undefined.md](testsetting/manage/undefined.md)
 {% endcontent-ref %}
 
 ## 문제 관리

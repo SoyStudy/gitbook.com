@@ -34,21 +34,18 @@
   * [과정 배포](undefined/undefined-2/undefined-4.md)
   * [인증평가 정보관리](undefined/undefined-2/undefined-6.md)
 
-## 시험세트관리 <a href="#testset" id="testset"></a>
+## 시험세트관리 <a href="#testsetting" id="testsetting"></a>
 
-* [시험세트관리 소개](testset/undefined.md)
-* [시험세트 정보](testset/undefined-1/README.md)
-  * [시험세트 기본설정](testset/undefined-1/undefined.md)
-  * [시험세트 고급설정](testset/undefined-1/undefined-1.md)
-* [시험세트 운영](testset/undefined-2/README.md)
-  * [시험세트 생성](testset/undefined-2/undefined.md)
-  * [시험세트 복사](testset/undefined-2/undefined-1.md)
-  * [시험세트 수정](testset/undefined-2/undefined-2.md)
-  * [시험세트 삭제](testset/undefined-2/undefined-3.md)
-* [시험접속 관리](testset/undefined-3.md)
-* [시험세트 문제목록](testset/undefined-4.md)
-* [시험 후속처리](testset/undefined-5.md)
-* [응시대상자 목록](testset/undefined-6.md)
+* [시험세트관리 소개](testsetting/readme.md)
+* [시험세트 운영](testsetting/manage/README.md)
+  * [시험세트 생성](testsetting/manage/undefined.md)
+  * [시험세트 복사](testsetting/manage/undefined-1.md)
+  * [시험세트 수정](testsetting/manage/undefined-2.md)
+  * [시험세트 삭제](testsetting/manage/undefined-3.md)
+  * [시험접속 관리](testsetting/manage/undefined-3-1.md)
+  * [시험세트 문제목록](testsetting/manage/undefined-4.md)
+  * [시험 후속처리](testsetting/manage/undefined-5.md)
+  * [응시대상자 목록](testsetting/manage/undefined-6.md)
 
 ## 문제분류관리 <a href="#classification" id="classification"></a>
 
