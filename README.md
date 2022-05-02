@@ -18,8 +18,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 
 과정관리는 시험을 보관하고, 과정관리 내에 있는 시험들을 치를 수 있게 도와줍니다.
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="undefined/undefined-2/undefined-4.md" %}
@@ -31,8 +31,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 문제를 등록 후 시험세트로 만들어 사용하는 방법에 관하여 설명되어있습니다.\
 
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="testset/undefined-2/undefined.md" %}
@@ -43,8 +43,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 
 문제 생성/수정/복사/삭제 등 시험세트에 들어갈 문제 제작에 관하여 설명되었습니다.
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="undefined-2/undefined-2.md" %}
+[undefined-2.md](undefined-2/undefined-2.md)
 {% endcontent-ref %}
 
 {% content-ref url="undefined-2/undefined-2.md" %}
@@ -59,8 +59,8 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 
 시험에 응할 응시자들을 추가 및 관리하는 방법 입니다.
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="undefined-4/undefined-6.md" %}
