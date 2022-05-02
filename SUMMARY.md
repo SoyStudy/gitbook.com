@@ -22,7 +22,6 @@
   * [초기상태 설정](Institution/Institutionlist/initialstate.md)
   * [회원탈퇴](Institution/Institutionlist/withdrawal.md)
 * [서비스 구매](Institution/buy.md)
-* [FAQ](Institution/faq.md)
 
 ## 과정관리 <a href="#course" id="course"></a>
 
