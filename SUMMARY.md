@@ -63,9 +63,7 @@
 ## 문제그룹관리 <a href="#group" id="group"></a>
 
 * [문제그룹관리 소개](undefined-3/undefined.md)
-* [문제그룹 추가](undefined-3/undefined-1/README.md)
-  * [그룹구성 문제관리](undefined-3/undefined-1/undefined.md)
-  * [그룹구성 순서관리](undefined-3/undefined-1/undefined-1.md)
+* [문제그룹 추가](group/add.md)
 * [문제그룹 수정](undefined-3/undefined-2.md)
 * [문제그룹 삭제](undefined-3/undefined-3.md)
 
