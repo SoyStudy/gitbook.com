@@ -66,3 +66,5 @@ description: 소이스터디에서 처음 진행하는 분들에게 쉽게 따�
 {% content-ref url="undefined-4/undefined-6.md" %}
 [undefined-6.md](undefined-4/undefined-6.md)
 {% endcontent-ref %}
+
+![](.gitbook/assets/logo\_soynet.png)
